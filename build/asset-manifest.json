@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dijkstra_pathFinder/static/css/main.f5398fce.chunk.css",
+    "main.js": "/Dijkstra_pathFinder/static/js/main.b83031df.chunk.js",
+    "main.js.map": "/Dijkstra_pathFinder/static/js/main.b83031df.chunk.js.map",
+    "runtime-main.js": "/Dijkstra_pathFinder/static/js/runtime-main.f7a860de.js",
+    "runtime-main.js.map": "/Dijkstra_pathFinder/static/js/runtime-main.f7a860de.js.map",
+    "static/js/2.536fd14f.chunk.js": "/Dijkstra_pathFinder/static/js/2.536fd14f.chunk.js",
+    "static/js/2.536fd14f.chunk.js.map": "/Dijkstra_pathFinder/static/js/2.536fd14f.chunk.js.map",
+    "index.html": "/Dijkstra_pathFinder/index.html",
+    "static/css/main.f5398fce.chunk.css.map": "/Dijkstra_pathFinder/static/css/main.f5398fce.chunk.css.map",
+    "static/js/2.536fd14f.chunk.js.LICENSE.txt": "/Dijkstra_pathFinder/static/js/2.536fd14f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a860de.js",
+    "static/js/2.536fd14f.chunk.js",
+    "static/css/main.f5398fce.chunk.css",
+    "static/js/main.b83031df.chunk.js"
+  ]
+}
